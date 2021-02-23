@@ -1,0 +1,117 @@
+body{
+    
+    text-align: center;
+    margin: 0px;
+    width: 100%;
+    
+}
+.titre h1{
+    position: relative;
+    top: 40px;
+}
+.titre{
+    position: relative;
+    top: 0px;
+    height: 180px;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    
+}
+ .nave{
+
+     background-color: black;
+     z-index: 100;
+     position: sticky;
+     top: 0px;
+     
+     display: flex;
+     justify-content: space-around;
+     
+ }
+ 
+ .nave a{
+     color: rgb(133, 133, 133);
+     text-decoration: none;
+     font-size: 25px;
+    
+     transition: all 0.15s linear;
+     
+ }
+ .nave a:hover{ 
+     font-size: 35px;
+      
+     color: rgb(255, 255, 255);
+     
+     padding: 5px;
+ }
+ 
+ .nave a:active{
+     color:brown;
+     
+ }
+ 
+
+
+.candide {
+
+
+     height: 1900px;
+     background-image: url("photocandide.jpg") ;
+     background-size: 100% auto;
+     
+ }
+.textCandide{
+     
+    
+     
+     color: white;
+      position:sticky;
+     text-align: center;
+     top: 100px;
+     
+
+   
+ }
+ .re{
+    position: relative;
+     font-size: 130px;
+     padding-bottom: 150px ;
+     top: 50px;
+ }
+
+.paragraphe {
+    font-size: 40px;
+    padding-bottom: 30px;
+    
+    top: 50px ;
+    color: blanchedalmond;
+}
+.plan{
+    position: relative;
+   
+    
+}
+.textplan p {
+    color: black;
+    position: relative;
+    
+    display: inline-flex;
+    
+    top: -300px ;
+    font-size: 50px;
+}
+iframe{
+    position: relative;
+}
+iframe:hover{
+    z-index: +1;
+}
+
+
+.fin{
+
+
+    
+    top: 1000px;
+}
