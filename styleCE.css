@@ -45,29 +45,28 @@ body{
      
      padding: 5px;
  }
-
  .textD{
-     background-image: url("titiethugo.JPG");
-     background-size: 100% auto ;
-     height: 1300px;
- }
+    background-image: url("phototictac.JPG");
+    background-size: 100% auto ;
+    height: 1300px;
+}
 
- .text{
-     position: relative;
-     font-size: 50px;
-     top: 50%;
-     color: white;
- }
+.text{
+    position: relative;
+    font-size: 50px;
+    top: 20%;
+    color: white;
+}
 
- .textP{
-     background-image: url("photosoleil.JPG");
-     background-size: 100% auto;
-     height: 1300px;
+.textP{
+    background-image: url("photosoleil.JPG");
+    background-size: 100% auto;
+    height: 1300px;
 
- }
- .text2{
-     position: relative;
-     font-size: 50px;
-     top: 10%;
-     color: white;
- }
+}
+.text2{
+    position: relative;
+    font-size: 50px;
+    top: 10%;
+    color: white;
+}
