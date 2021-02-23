@@ -52,14 +52,12 @@ body{
  }
  
 
-.ensembleCandide{
-    height: 1900px;
-}
+
 .candide {
 
      background-image: url("photocandide.jpg") ;
      background-size: 100% auto;
-     
+     height: 1800px;
      
  }
 .textCandide{
